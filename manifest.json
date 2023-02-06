@@ -1,7 +1,7 @@
 {
     "name": "marangu_truck_site",
     "short_name": "marangu_truck_site",
-    "start_url": "https://lelotz.github.io/marangu_trucks_web_app",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
